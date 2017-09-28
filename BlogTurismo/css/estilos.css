@@ -1,0 +1,71 @@
+.fondo{
+	background: url("../img/fondo.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+	position: center center;
+	padding:0.5rem;
+	
+}
+
+.logo_sitio_izquierda{
+
+  max-height:150px;
+  margin-top:0.5rem;
+  }
+
+.logo_sitio_centro{
+
+  max-height:150px;
+  margin-top:0.5rem;
+  float:center;
+
+}
+
+
+.borde{
+	border: 1px solid #FFFF0F;
+}
+
+
+
+.contenderCabecera{
+	padding:1rem;
+}
+
+
+
+
+.iconoSocial{
+  width:40px;
+}
+
+
+.responsive-img{
+  max-width:100rem;
+  border-radius: 5px;
+
+}
+
+.responsive-img600{
+  max-width:100rem;
+  border-radius: 5px;
+}
+
+.articulo-imagen{
+  min-height:20rem;
+
+}
+
+.cero{
+	padding:0;
+	border:0;
+	margin:0;
+}
+.LetraBlanca{
+	color:#FFFFFF!important;
+}
+
+
+.imagenRedonda{
+	border-radius: 100%!important;
+	}

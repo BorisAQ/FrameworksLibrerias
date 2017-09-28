@@ -1,0 +1,56 @@
+.bordes{
+	border: 1px solid #FFFF0F;
+}
+
+.titulo8{
+	font-size:0.8rem;
+
+}
+
+.Fondo{
+	background: url("../img/fondoCocina.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+	position: center center;
+	padding:1rem;
+	
+}
+
+.FondoContenedor{
+	background: rgba(100,50,50,0.5);	
+}
+
+.letraBlanca{
+	color:#ffffff;
+}
+
+.Contenedor2{
+	background: #fbe9e7;
+	border-radius:5px;	
+	padding:0.5rem;
+	margin:0.5rem;
+}
+
+
+
+.img-articulo{
+	max-height:300px;
+}
+
+.Comentario{
+	padding-left:1rem;
+
+	padding-right:1rem;
+}
+
+
+.img-social{
+	width:35px;
+	height:35px;
+	border-radius:5px;
+}
+
+.cero{
+	margin:0px;
+	padding:0px;
+}
